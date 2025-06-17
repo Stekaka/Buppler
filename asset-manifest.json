@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Buppler/static/css/main.566cd42a.css",
-    "main.js": "/Buppler/static/js/main.3d03b73b.js",
+    "main.css": "/Buppler/static/css/main.48bd92cf.css",
+    "main.js": "/Buppler/static/js/main.5541a5e9.js",
     "index.html": "/Buppler/index.html",
-    "main.566cd42a.css.map": "/Buppler/static/css/main.566cd42a.css.map",
-    "main.3d03b73b.js.map": "/Buppler/static/js/main.3d03b73b.js.map"
+    "main.48bd92cf.css.map": "/Buppler/static/css/main.48bd92cf.css.map",
+    "main.5541a5e9.js.map": "/Buppler/static/js/main.5541a5e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.566cd42a.css",
-    "static/js/main.3d03b73b.js"
+    "static/css/main.48bd92cf.css",
+    "static/js/main.5541a5e9.js"
   ]
 }
