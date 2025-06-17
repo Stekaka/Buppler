@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Buppler/react-clicker-game/static/css/main.91df7418.css",
+    "main.js": "/Buppler/react-clicker-game/static/js/main.031c3120.js",
+    "index.html": "/Buppler/react-clicker-game/index.html",
+    "main.91df7418.css.map": "/Buppler/react-clicker-game/static/css/main.91df7418.css.map",
+    "main.031c3120.js.map": "/Buppler/react-clicker-game/static/js/main.031c3120.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91df7418.css",
+    "static/js/main.031c3120.js"
+  ]
+}
